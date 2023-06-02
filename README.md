@@ -1,2 +1,2 @@
 # 2itch
-Streaming website
+Dummy streaming site made entirely with Bootstrap without CSS
